@@ -2,10 +2,13 @@
 <p align="center">
     <img src="https://github.com/vasantvohra/data-analytics/blob/master/questions.png?raw=true" alt="Questions"/>
 </p>
-# Assignment
+# Assignment <br>
 ### Python - Pandas
 <p align="center">
-    <img src="https://github.com/vasantvohra/Image-Processing/blob/master/AB%20testing/AB%20testing%20result.PNG?raw=true" alt="result"/>
+    <img src="https://github.com/vasantvohra/Data-analytics/blob/master/AB%20Testing/AB%20testing%20result.PNG?raw=true" alt="result"/>
 </p>
-### Best sorting by Built in function
+<p>
+
+<h1> Best sorting by Built in function<br>
+</h1>
  [Tim-sort](https://github.com/vasantvohra/Image-Processing/blob/master/timsort)
