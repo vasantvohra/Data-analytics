@@ -14,7 +14,8 @@ Data analytics
 ---
 ![A/B Testing](https://github.com/vasantvohra/data-analytics/blob/master/questions.png)
 ![result](https://github.com/vasantvohra/Data-analytics/blob/master/AB%20Testing/AB%20testing%20result.PNG)
-### Best sorting by Built in function<br>
+### Best sorting by Built in function
 [Tim-sort](https://github.com/vasantvohra/Data-analytics/tree/master/Timsort)
+
 ![Timsort](https://github.com/vasantvohra/Data-analytics/blob/master/Timsort/time%20and%20space%20complex.png)
  
